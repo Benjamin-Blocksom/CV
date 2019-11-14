@@ -1,4 +1,4 @@
-# Benjamin Blocksom
+# Benjamin Blocksom - Curriculum Vitae
 
 ## Objective
 Leverage email-development skills to help marketing team transform creative briefs, redlines, and PSD design files into accessible, responsive, cross-platform tested email campaigns ready for deployment.
