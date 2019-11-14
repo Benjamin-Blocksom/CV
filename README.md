@@ -42,4 +42,4 @@ Georgetown University (BSLA in Portuguese). 1997.
 
 * **Translator** - Self-employed (2014-Present). Interpret, subtitle, and translate documents from Brazilian Portuguese and Latin American Spanish. Most recently, I provided HBO with subtitles of the Brazilian President's speech delivered to the U.N. for use in broadcast to millions of viewers.
 
-* **Band Leader** - Washington Talent Agency (2012-2014). Oversee small group of direct reports (musicians) and handle all logistics for providing live sound at high-profile weddings and events in the Washington, D.C. area. Interface with clients and multiple third-party vendors in high-stress situations.
+* **Band Leader** - Washington Talent Agency (2012-2014). Oversee small group of direct reports (musicians) and handle all logistics for providing live sound at high-profile weddings and events in the Washington, D.C. area. Interface with clients and multiple third-party vendors under tight deadlines at highly emotionally-charged events. 
