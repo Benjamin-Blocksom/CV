@@ -27,7 +27,6 @@ Leverage email-development skills to help marketing team transform creative brie
 * The full [*Learn Enough*](https://www.learnenough.com/) series by Michaeld Hartl. Web development topic including fundaments, JavaScript/Node, and Ruby/Ruby on Rails. Emphasis on technical sophistication, the mix of hard and soft skills needed to solve development problems. Completed all exercises and projects.
 * Wes Bos' tutorials and podcasts on JavaScript and Web Development.
 * Chris Converses's CSS tutorials on Lynda.com (now LinkedIn Learning). Over 100 hours on CSS3 UI components and responsive design fundamentals.
-* Modern tutorials such as freeCodeCamp.org, w3cschools.com, Big Nerd Ranch's "Front-End Development", "You Don't Know JS", "Eloquent JavaScript", and "CSS: Everyday Secrets" by Lea Verou.
 * Classic programming guides such as "The Mythic Man-Month" and "Programming Perls".
 
 ### Formal Education
@@ -40,6 +39,6 @@ Georgetown University (BSLA in Portuguese). 1997.
 
 ## Professional Experience
 
-* **Translator** - Self-employed (2014-Present). Interpret, subtitle, and translate documents from Brazilian Portuguese and Latin American Spanish. Most recently, I provided HBO with subtitles of the Brazilian President's speech delivered to the U.N. for use in broadcast to millions of viewers.
+* **Translator** - Self-employed (2014-Present). Interpret, subtitle, and translate documents from Brazilian Portuguese and Latin American Spanish. Most recently I provided HBO with subtitles of the Brazilian President's speech delivered to the U.N. for use in broadcast to millions of viewers.
 
 * **Band Leader** - Washington Talent Agency (2012-2014). Oversee small group of direct reports (musicians) and handle all logistics for providing live sound at high-profile weddings and events in the Washington, D.C. area. Interface with clients and multiple third-party vendors under tight deadlines at highly emotionally-charged events. 
