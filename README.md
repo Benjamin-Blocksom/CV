@@ -16,7 +16,7 @@ Leverage email-development skills to help marketing team transform creative brie
   * Development experience with cloud-based IDE (Cloud 9 from AWS).
 
 ## Interpersonal and Business Skills
-* Agency-level editor with experience handling copy for American Express, MasterCard, and Hewlitt-Packard, as well as top legal firms and banks.
+* Agency-level copy editor with experience handling copy for American Express, MasterCard, and Hewlitt-Packard, as well as top legal firms and banks.
 * Successful entrepreneur with more than 5 years experience working remotely for clients such as HBO, CitiBank, and BHP.
 * Personable and goal-oriented team player versed in online collaboration tools.
 * Sensitive to accessibility issues as outlined by WCAG 2.0.
