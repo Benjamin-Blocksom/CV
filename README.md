@@ -5,7 +5,7 @@ Leverage email-development skills to help marketing team transform creative brie
 
 ## Technical Skills
 * HTML5 - Structuring and semantics for web documents, inclduing accessibility and cross-browser compatibilty.
-* CSS3 - Full grok of the cascade, working knowledge of flexbox and grid layouts, selectors and pseudo-elements. Familiarity with extensions like Sass and LESS.
+* CSS3 -  Cascade, flexbox and grid layouts, selectors and pseudo-elements. Familiarity with extensions like Sass and LESS.
 * JavaScript (ES6) - Solid grasp of typical case uses for web applications such as rendering and updating the DOM, handling forms, and adding event listeners. Experience with libraries like JQuery and React.
 * Email-development - Experience with limitations and possibilities of HTML and CSS for email, including structuring using tables, hosting images and testing through Litmus.
 * Familiarity with popular marketing automation platforms including Mailchimp and Eloqua.
