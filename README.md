@@ -1,7 +1,7 @@
 # Benjamin Blocksom - Curriculum Vitae
 
 ## Objective
-Leverage email-development skills to help marketing team transform creative briefs, redlines, and PSD design files into accessible, responsive, cross-platform tested web pages and email campaigns ready for deployment.
+Transform creative briefs, redlines, and PSD design files into accessible, responsive, cross-platform tested web pages and email campaigns ready for deployment.
 
 ## Technical Skills
 * HTML5 - Structuring and semantics for web documents, inclduing accessibility and cross-browser compatibilty.
